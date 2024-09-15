@@ -1,2 +1,0 @@
-This is a branchB file
-This is a branchA file
